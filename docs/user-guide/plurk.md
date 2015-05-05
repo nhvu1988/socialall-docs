@@ -1,0 +1,16 @@
+##Plurk
+
+#####To register an application on Plurk, please follow the steps below:
+
+1. Login to [Plurk](http://www.plurk.com/) and go to Page [Plurk App](http://www.plurk.com/PlurkApp) to create application
+2. Press button "Create a new Plurk App" and fill the create form with the below information
+    * App type: select "Third-party web site intergration"
+    * OAuth callback: __http://api.soclall.com/callback__
+    <br/>
+    ![Plurk : Create Form](http://www.soclall.com/images/docs/plurk-1-create-form.JPG)
+    <br/>
+3. Then press button "Register App"
+4. After successfully registered the application, go to edit page and get the "App key" and "App secret" to fill SoclAll Plurk Settings form.
+    <br/>
+    ![Plurk : Edit Form](http://www.soclall.com/images/docs/plurk-2-edit-form.JPG)
+    <br/>

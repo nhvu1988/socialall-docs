@@ -1,1 +1,23 @@
-site_name: My Docs
+site_name: Social All
+repo_url: http://www.soclall.com/
+repo_name: SoclAll
+site_author: Sandklock
+site_favicon: favicon.ico
+pages:
+- ['index.md', 'Social All Documentation']
+- ['user-guide/facebook.md', 'User Guide', 'Facebook']
+- ['user-guide/twitter.md', 'User Guide', 'Twitter']
+- ['user-guide/linkedin.md', 'User Guide', 'Linkedin']
+- ['user-guide/google.md', 'User Guide', 'Google Plus']
+- ['user-guide/plurk.md', 'User Guide', 'Plurk']
+- ['user-guide/tumblr.md', 'User Guide', 'Tumblr']
+- ['user-guide/mailru.md', 'User Guide', 'Mail.Ru']
+- ['user-guide/live.md', 'User Guide', 'Live']
+- ['user-guide/reddit.md', 'User Guide', 'Reddit']
+- ['user-guide/lastfm.md', 'User Guide', 'Last.fm']
+- ['user-guide/vk.md', 'User Guide', 'Vkontakte']
+- ['user-guide/disqus.md', 'User Guide', 'Disqus']
+- ['user-guide/wordpress.md', 'User Guide', 'Wordpress']
+- ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
+- ['user-guide/github.md', 'User Guide', 'GitHub']
+theme: readthedocs
