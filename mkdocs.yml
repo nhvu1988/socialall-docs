@@ -24,4 +24,5 @@ pages:
 - ['developer-guide/js.md', 'Developer Guide', 'Javascript']
 - ['developer-guide/php.md', 'Developer Guide', 'PHP']
 theme: readthedocs
+extra_css: ['css/soclall.css']
 include_search: true
