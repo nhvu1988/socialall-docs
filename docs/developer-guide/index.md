@@ -1,4 +1,4 @@
-# SoclAll
+# Introduction
 
 Welcome to the SoclAll API! You can use our API to access SoclAll API endpoints, which can get connect your users to their social network accounts
 
@@ -32,5 +32,5 @@ Github | github | <i class="fa fa-check soclall-icon-check"></i> | | |
 
 # Languages
 
-* [Javascript](../developer-guide/js.md)
+* [Node.js](../developer-guide/nodejs.md)
 * [PHP](../developer-guide/php.md)

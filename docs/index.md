@@ -1,4 +1,4 @@
-#Social All's Documentation
+#SoclAll's Documentation
 
 ###Contents:
 
@@ -20,5 +20,5 @@
     * [Github](user-guide/github.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
-    * [Javascript](developer-guide/js.md)
+    * [Node.js](developer-guide/nodejs.md)
     * [PHP](developer-guide/php.md)
