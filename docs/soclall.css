@@ -1,0 +1,30 @@
+aside {
+    padding: 1em;
+    text-shadow: 0 1px 0 #c6dde9;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    background: #8fbcd4;
+}
+
+aside.soclall-success {
+    background-color: #6ac174;
+    text-shadow: 0 1px 0 #a0d7a6;
+}
+
+aside.soclall-warning {
+    background-color: #c97a7e;
+    text-shadow: 0 1px 0 #dfb0b3;
+}
+
+aside code {
+    padding: 3px;
+}
+
+.soclall-icon-check::before {
+    color: #6ac174;
+    font-size: 20px;
+}
+
+.soclall-br {
+    margin: 1.5em 0;
+}

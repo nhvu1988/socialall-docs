@@ -4,7 +4,7 @@ repo_name: SoclAll
 site_author: Sandklock
 site_favicon: favicon.ico
 pages:
-- ['index.md', 'Social All Documentation']
+- ['index.md', 'Social All']
 - ['user-guide/facebook.md', 'User Guide', 'Facebook']
 - ['user-guide/twitter.md', 'User Guide', 'Twitter']
 - ['user-guide/linkedin.md', 'User Guide', 'Linkedin']
@@ -20,4 +20,8 @@ pages:
 - ['user-guide/wordpress.md', 'User Guide', 'Wordpress']
 - ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
 - ['user-guide/github.md', 'User Guide', 'GitHub']
+- ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
+- ['developer-guide/js.md', 'Developer Guide', 'Javascript']
+- ['developer-guide/php.md', 'Developer Guide', 'PHP']
 theme: readthedocs
+include_search: true
