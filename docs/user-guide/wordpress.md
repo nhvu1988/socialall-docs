@@ -5,10 +5,10 @@ __To register an application on Wordpress, please follow the steps below:__
     * Redirect URL: __http://api.soclall.com/callback__
 3. Then press button "Create"
     <div class="soclall-br"></div>
-    ![Wordpress : Create Form](img/wordpress-1-create-form.png)
+    ![Wordpress : Create Form](/img/wordpress-1-create-form.png)
     <div class="soclall-br"></div>
 4. After successfully registered the application, go to "Application Management".
 5. In session "OAuth Information", you can find "Client ID" and "Client Secret" to fill SoclAll Wordpress Settings form.
     <div class="soclall-br"></div>
-    ![Wordpress : Api Info](img/wordpress-2-api-info.png)
+    ![Wordpress : Api Info](/img/wordpress-2-api-info.png)
     <div class="soclall-br"></div>
