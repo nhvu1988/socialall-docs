@@ -4,10 +4,10 @@ __To register an application on GitHub, please follow the steps below:__
 2. Press button "Register new application" and then fill the application form with the below information
     * Authorization callback URL: __http://api.soclall.com/callback__
     <div class="soclall-br"></div>
-    ![GitHub : Create Form](../img/github-1-create-form.png)
+    ![GitHub : Create Form](img/github-1-create-form.png)
     <div class="soclall-br"></div>
 3. After successfully registered the application, go to "Application Management".
 4. In application details page, you can find "Client ID" and "Client Secret" to fill SoclAll GitHub Settings form.
     <div class="soclall-br"></div>
-    ![GitHub : Api Info](../img/github-2-app-info.png)
+    ![GitHub : Api Info](img/github-2-app-info.png)
     <div class="soclall-br"></div>
