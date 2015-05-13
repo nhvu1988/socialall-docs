@@ -65,6 +65,7 @@ aside code {
     border-bottom: 1px solid #E1E4E5;
     border-left: 1px solid #E1E4E5;
     vertical-align: middle;
+    text-align: center;
 }
 
 .rst-content table tr:nth-child(2n-1) td {
