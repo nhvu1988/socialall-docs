@@ -13,6 +13,8 @@ __To register an application on Facebook, please follow all steps below:__
 5. Select menu "Settings", and fill the information below:
     * App Domains: __api.soclall.com__
     * Site URL: __http://api.soclall.com/callback__  
- ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
- <div class="soclall-br"></div>
+
+    ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
+    <div class="soclall-br"></div>
+    
 6. In the Settings page, you can also get "App ID" and "App Secret" to fill SoclAll Facebook Settings form.
