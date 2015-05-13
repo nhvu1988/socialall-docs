@@ -13,7 +13,7 @@ domain | Your site's domain | domain.com
 # Networks
 
 Network | Code | /user | /friends | /message | /publish
---- | --- | :---: | :---: | :---: | :---:
+--- | --- | :-: | :-: | :-: | :-:
 Facebook | facebook | <i class="fa fa-check soclall-icon-check"></i> | <i class="fa fa-check soclall-icon-check"></i> | | <i class="fa fa-check soclall-icon-check"></i>
 Twitter | twitter | <i class="fa fa-check soclall-icon-check"></i> | <i class="fa fa-check soclall-icon-check"></i> | <i class="fa fa-check soclall-icon-check"></i> | <i class="fa fa-check soclall-icon-check"></i>
 Google Plus | google | <i class="fa fa-check soclall-icon-check"></i> | <i class="fa fa-check soclall-icon-check"></i> | | 
