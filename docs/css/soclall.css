@@ -28,3 +28,40 @@ aside code {
 .soclall-br {
     margin: 1.5em 0;
 }
+
+.rst-content table {
+    border: 1px solid #E1E4E5;
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    margin-bottom: 24px;
+}
+
+.rst-content table thead {
+    color: #000;
+    text-align: left;
+    vertical-align: bottom;
+    white-space: nowrap;
+}
+
+.rst-content table td {
+    font-size: 90%;
+    margin: 0px;
+    overflow: visible;
+    padding: 8px 16px;
+    border-bottom: 1px solid #E1E4E5;
+    border-left: 1px solid #E1E4E5;
+    vertical-align: middle;
+}
+
+.rst-content table tr:nth-child(2n-1) td {
+    background-color: #F3F6F6;
+}
+
+.rst-content table tbody > tr:last-child td {
+    border-bottom-width: 0;
+}
+
+.rst-content table td:first-child {
+    border-left-width: 0;
+}
