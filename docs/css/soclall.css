@@ -65,3 +65,11 @@ aside code {
 .rst-content table td:first-child {
     border-left-width: 0;
 }
+
+.rst-content img {
+    border: 2px solid #2980B9 !important;
+}
+
+.rst-content a {
+    font-weight: bold;
+}
