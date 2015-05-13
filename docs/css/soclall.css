@@ -48,7 +48,7 @@ aside code {
     border-left-width: 0;
 }
 
-.rst-content table.docutils thead th {
+.rst-content table thead th {
     font-weight: bold;
     border-bottom: 2px solid #E1E4E5;
     font-size: 90%;
@@ -81,6 +81,7 @@ aside code {
 
 .rst-content img {
     border: 2px solid #2980B9 !important;
+    width: 600px;
 }
 
 .rst-content a {
