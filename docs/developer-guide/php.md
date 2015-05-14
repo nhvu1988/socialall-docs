@@ -24,20 +24,6 @@ header('Location: '.$login_url);
 ?>
 ```
 
-__HTTP REQUEST__
-
-`REDIRECT https://api.soclall.com/login`
-
-__Query Parameters__
-
-Parameter | Value | Description
---------- | ------- | -----------
-app_id | | Your application's id.
-network | [network](#networks) | Network user want to connect.
-callback | | Callback url to retrieve user's `token`.
-
-<aside class="soclall-success"><i class="fa fa-check-circle"></i> After user accepts all permission and allow to access. An access <code>token</code> will be submitted to your callback.</aside>
-
 ## API
 
 ### /user
@@ -51,7 +37,7 @@ $user = $soclall->getUser('token');
 ?>
 ```
 
-The `user` object returns JSON structured like this:
+The [`user`](user-object.md) object returns JSON structured like this:
 
 ```
 {
@@ -61,35 +47,9 @@ The `user` object returns JSON structured like this:
   "email": "boy@soclall.com",
   // name
   "full_name": "Boy Nguyen", // full name || first name + lastname
-  "first_name": "Boy",
-  "last_name": "Nguyen",
-  "display_name": "Boy Boy", // Google Plus
-  // profile
-  "profile_url": "http://www.facebook.com/boy",
-  "avatar_url": "",
-  "avatar_small_url": "",
-  "avatar_medium_url": "",
-  "avatar_big_url": "",
-  "gender": "", // male || female || unknown
-  "date_of_birth": "", // YYYY/MM/DD
+  ...
 }
 ```
-
-__HTTP Request__
-
-`GET https://api.soclall.com/user`
-
-__Query Parameters__
-
-Parameter | Value | Description
---------- | ------- | -----------
-token |  | User's token
-
-__Response__
-
-Return an `user` object
-
-<aside><i class="fa fa-info-circle"></i> The user object does not contain fully information. Missing fields return with empty string.</aside>
 
 ### /friends
 
@@ -102,7 +62,7 @@ $friends = $soclall->getFriends('token');
 ?>
 ```
 
-The `friends` object returns an array of `user` object like this:
+The `friends` object returns an array of [`user`](user-object.md) object like this:
 
 ```
 [
@@ -121,20 +81,6 @@ The `friends` object returns an array of `user` object like this:
 ]
 ```
 
-__HTTP Request__
-
-`GET https://api.soclall.com/friends`
-
-__URL Parameters__
-
-Parameter | Value | Description
---------- | ------- | -----------
-token |  | User's token
-
-__Response__
-
-Return array of `user` objects
-
 ### /message
 
 This endpoint will send `message` to user's friends.
@@ -146,21 +92,6 @@ $soclall->sendMessage('token', 'message', $friend_ids, $title = '');
 ?>
 ```
 
-__HTTP Request__
-
-`GET https://api.soclall.com/message`
-
-__URL Parameters__
-
-Parameter | Value | Description
---------- | ------- | -----------
-token | | User's token
-message | | Message content
-friends | | List friend ids join by comma
-title | | [optional] Title for LinkedIn and Tumblr
-
-<aside class="soclall-warning"><i class="fa fa-exclamation-circle"></i> <code>title</code> is required field for LinkedIn and Tumblr.</aside>
-
 ### /publish
 
 This endpoint will publish a message to user's wall/timeline/stream.
@@ -171,14 +102,3 @@ This endpoint will publish a message to user's wall/timeline/stream.
 $soclall->publish('token', 'message');
 ?>
 ```
-
-__HTTP Request__
-
-`GET https://api.soclall.com/publish`
-
-__URL Parameters__
-
-Parameter | Value | Description
---------- | ------- | -----------
-token | | User's token
-message | | Message 

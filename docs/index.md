@@ -20,5 +20,6 @@
     * [Github](user-guide/github.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
+    * [RESTful](developer-guide/restful.md)
     * [Node.js](developer-guide/nodejs.md)
     * [PHP](developer-guide/php.md)

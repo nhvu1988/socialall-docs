@@ -21,8 +21,10 @@ pages:
 - ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
 - ['user-guide/github.md', 'User Guide', 'GitHub']
 - ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
+- ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']
 - ['developer-guide/php.md', 'Developer Guide', 'PHP']
+- ['developer-guide/user-object.md', 'Developer Guide', 'User Object']
 theme: readthedocs
 extra_css: ['css/soclall.css']
 extra_javascript: ['js/soclall.js']
