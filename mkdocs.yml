@@ -25,4 +25,5 @@ pages:
 - ['developer-guide/php.md', 'Developer Guide', 'PHP']
 theme: readthedocs
 extra_css: ['css/soclall.css']
+extra_javascript: ['js/soclall.js']
 include_search: true
