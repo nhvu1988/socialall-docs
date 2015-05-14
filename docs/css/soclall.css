@@ -81,7 +81,6 @@ aside code {
 
 .rst-content img {
     border: 2px solid #2980B9 !important;
-    width: 600px;
 }
 
 .rst-content a {
@@ -91,4 +90,12 @@ aside code {
 .wy-nav-content {
     width: 100%;
     max-width: 100%;
+}
+
+.small-size {
+    width: 600px;
+}
+
+.big-size {
+    width: auto;
 }
