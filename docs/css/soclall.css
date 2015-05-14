@@ -94,8 +94,12 @@ aside code {
 
 .small-size {
     width: 600px;
+    transition: width 500ms;
+    -webkit-transition: width 500ms;
+    cursor: zoom-in;
 }
 
 .big-size {
-    width: auto;
+    width: 800px;
+    cursor: zoom-out;
 }
