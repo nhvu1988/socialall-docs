@@ -19,3 +19,23 @@
   "date_of_birth": "", // YYYY/MM/DD
 }
 ```
+
+## Fields
+
+
+Name | Description | Type
+---- | ----------- | ----
+id   | Social Network 's User id | int
+username | | string
+email | | string
+full_name | first name + lastname | string
+first_name | | string
+last_name | | string
+display_name | just only Google Plus | string
+profile_url | | string
+avatar_url | | string 
+avatar_small_url | | string
+avatar_medium_url | | string
+avatar_big_url | | string
+gender | male/female/unknown | string
+date_of_birth | YYYY/MM/DD | string

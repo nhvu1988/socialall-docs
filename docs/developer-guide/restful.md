@@ -36,7 +36,7 @@ __Response__
 
 Return an [`user`](user-object.md) object
 
-<aside><i class="fa fa-info-circle"></i> The <a href="../user-object/"><code>user</code></a> object does not contain fully information. Missing fields return with empty string.</aside>
+<aside><i class="fa fa-info-circle"></i> The <code>user</code> object does not contain fully information. Missing fields return with empty string.</aside>
 
 ### /friends
 
