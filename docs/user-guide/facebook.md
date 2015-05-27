@@ -12,9 +12,14 @@ __To register an application on Facebook, please follow all steps below:__
 4. Press button "Skip Quick Start" and go to page "App Setting".
 5. Select menu "Settings", and fill the information below:
     * App Domains: __api.soclall.com__
+    * Contact Email: __(your email)__
     * Site URL: __http://api.soclall.com/callback__  
 
     ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
     <div class="soclall-br"></div>
     
-6. In the Settings page, you can also get "App ID" and "App Secret" to fill SoclAll Facebook Settings form.
+6.  Select menu "Status & Review", and in tab "Status", press button "No" change to "Yes" on first block. 
+    <div class="soclall-br"></div>
+    ![Facebook : Status Page](/img/facebook-4-status-page.JPG)
+    <div class="soclall-br"></div>    
+7. In the Settings page, you can also get "App ID" and "App Secret" to fill SoclAll Facebook Settings form.
