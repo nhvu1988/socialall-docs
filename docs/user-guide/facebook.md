@@ -20,6 +20,6 @@ __To register an application on Facebook, please follow all steps below:__
     
 6.  Select menu "Status & Review", and in tab "Status", press button "No" change to "Yes" on first block. 
     <div class="soclall-br"></div>
-    ![Facebook : Status Page](/img/facebook-4-status-page.JPG)
+    ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
 7. In the Settings page, you can also get "App ID" and "App Secret" to fill SoclAll Facebook Settings form.
