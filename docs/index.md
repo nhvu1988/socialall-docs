@@ -1,7 +1,3 @@
-#SoclAll's Documentation
-
-###Contents:
-
 * User Guide
     * [Facebook](user-guide/facebook.md)
     * [Twitter](user-guide/twitter.md)
@@ -13,7 +9,7 @@
     * [Live](user-guide/live.md)
     * [Reddit](user-guide/reddit.md)
     * [Last.fm](user-guide/lastfm.md)
-    * [Vkontakte](user-guide/vk.md)
+    * [Vkontakte](user-guide/vkontakte.md)
     * [Disqus](user-guide/disqus.md)
     * [Wordpress](user-guide/wordpress.md)
     * [Foursquare](user-guide/foursquare.md)
