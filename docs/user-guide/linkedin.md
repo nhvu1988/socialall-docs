@@ -18,5 +18,9 @@ __To register an application on LinkedIn, please follow the steps below:__
 6. In session "OAuth 2.0", fill "Authorized Redirect URLs" field: __http://api.soclall.com/callback__ and press button "Update".
     <div class="soclall-br"></div>
     ![Linkedin : Authentication Page](/img/linkedin-3-authentication-page.jpg)
+    <div class="soclall-br"></div> 
+7. Select menu "Settings", change "Application Status" to __Live__ and press button "Update".
+    <div class="soclall-br"></div>
+    ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>    
-7. In "Authentication" page, you can get the "Client ID" and "Client Secret" to fill SoclAll LinkedIn Settings form.
+8. In "Authentication" page, you can get the "Client ID" and "Client Secret" to fill SoclAll LinkedIn Settings form.
