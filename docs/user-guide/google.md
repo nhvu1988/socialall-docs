@@ -13,11 +13,16 @@ __To register an application on Google PLus, please follow the steps below:__
     * Application Type: select "Web application"
     * Authorized Javascript Origins: __http://api.soclall.com/__
     * Authorized Redirect Uris: __http://api.soclall.com/callback__
-5. Then press button "Create Client ID"
+5. Then press button "Create Client ID".
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)
     <div class="soclall-br"></div>
-6. After successfully registered the client ID, you can get the "Client ID" and "Client Secret" to fill SoclAll Google Settings form.
+6. Select menu "APIs", at tab "API Library", select link "Google+ API" in "Social APIs" section.
+7. Then press button "Enable API".
     <div class="soclall-br"></div>
-    ![Google : Client Info](/img/google-5-client-info.JPG)
+    ![Google : Enable APIs](/img/google-5-apis.jpg)
+    <div class="soclall-br"></div>
+8. After successfully registered the client ID, you can get the "Client ID" and "Client Secret" to fill SoclAll Google Settings form.
+    <div class="soclall-br"></div>
+    ![Google : Client Info](/img/google-6-client-info.JPG)
     <div class="soclall-br"></div>

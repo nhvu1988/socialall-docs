@@ -10,7 +10,7 @@ __To register an application on Facebook, please follow all steps below:__
     ![Facebook : Select Any Category](/img/facebook-2-select-any-category.JPG)
     <div class="soclall-br"></div>
 4. Press button "Skip Quick Start" and go to page "App Setting".
-5. Select menu "Settings", and fill the information below:
+5. Select menu "Settings", then press button "+ Add Platform" and fill the information below:
     * App Domains: __api.soclall.com__
     * Contact Email: __(your email)__
     * Site URL: __http://api.soclall.com/callback__  
