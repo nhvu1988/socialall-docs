@@ -2,8 +2,8 @@ __To register an application on Twitter, please follow the steps below:__
 
 1. Login to [Twitter](https://www.twitter.com/) and go to Page [Twitter App](http://apps.twitter.com/) to create application.
 2. Press button "Create New App" and then fill the application form with the below information
-    * Website: __http://api.soclall.com/__
-    * Callback URL: __http://api.soclall.com/callback__
+    * Website: __https://api.soclall.com/__
+    * Callback URL: __https://api.soclall.com/callback__
 3. Then check to agreement checkbox and press button "Create your Twitter application"
     <div class="soclall-br"></div>
     ![Twitter : Create App Form](/img/twitter-1-create-app-form.jpg)
