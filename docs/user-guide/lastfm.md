@@ -6,7 +6,7 @@ __To register an application on Last.fm, please follow the steps below:__
     ![Last.fm : Create Form](/img/lastfm-1-create-form.jpg)
     <div class="soclall-br"></div>
 3. After successfully registered the application, go to Authentication session, fill the callback url and save
-    * Callback URL: __http://api.soclall.com/callback__
+    * Callback URL: __https://api.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Last.fm : Update Callback](/img/lastfm-2-update-callback.JPG)

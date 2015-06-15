@@ -3,7 +3,8 @@ __To register an application on Live, please follow the steps below:__
 1. Login to [Microsoft account](https://account.live.com/) and go to Page [Microsoft Developer](https://account.live.com/developers/applications) to create application
 2. Press button "Create application", then fill the application name and accept the TOS
 3. Go to Api Settings and fill all below information
-    * Redirect URLs: __https://api.soclall.com/callback__
+    * Redirect URLs: __http://api.soclall.com/callback__
+    * Then, press "Add another redirect URL" and re-fill: __https://api.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Live : Api Settings Form](/img/live-1-api-settings-form.JPG)
