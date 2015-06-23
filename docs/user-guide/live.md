@@ -10,8 +10,8 @@ __To register an application on Live, please follow the steps below:__
     ![Live : Api Settings Form](/img/live-1-api-settings-form.JPG)
     <div class="soclall-br"></div>
     
-4. Then save the api settings
-5. Go to edit page and get the "Client ID" and "Client secret" to fill SoclAll Live Settings form.
+4. After done, press button "Save".
+5. Go to "App Settings" page and get the "Client ID" and "Client secret" to fill SoclAll Live Settings form.
     <div class="soclall-br"></div>
     ![Live : Api Settings Form](/img/live-2-app-settings-form.JPG)
     <div class="soclall-br"></div>
