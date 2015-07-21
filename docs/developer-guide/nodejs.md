@@ -38,7 +38,7 @@ This endpoint retrieves user information.
 soclall.getUser('token', function(err, user){});
 ```
 
-The [`user`](user-object.md) object returns JSON structured like this:
+The `result` returns [`user`](user-object.md) JSON object structured like this:
 
 ```
 {
@@ -61,7 +61,7 @@ This endpoint retrieves user's friends.
 soclall.getFriends('token', function(err, friends){});
 ```
 
-The `friends` object returns an array of [`user`](user-object.md) object like this:
+The `result` returns an array of [`user`](user-object.md) object like this:
 
 ```
 [
@@ -96,4 +96,11 @@ This endpoint will publish a message to user's wall/timeline/stream.
 ```
 // Publish a message to wall/timeline/stream
 soclall.publish('token', 'message', function(err){});
+```
+
+The `result` returns a JSON object structured like this:
+```
+{
+    "link": "https://www.facebook.com/.../posts/..."
+}
 ```

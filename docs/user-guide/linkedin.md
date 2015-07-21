@@ -15,7 +15,7 @@ __To register an application on LinkedIn, please follow the steps below:__
     * r_basicprofile: if you want to use "SoclAll Login"
     * r_emailaddress: if you want to use "SoclAll Invite"
     * w_share: if you want to use "SoclAll Posting"
-6. In session "OAuth 2.0", fill "Authorized Redirect URLs" field: __http://api.soclall.com/callback__ and press button "Add". Then, re-fill: __https://api.soclall.com/callback__ and press button "Add".
+6. In session "OAuth 2.0", fill "Authorized Redirect URLs" field: __http://api2.soclall.com/callback__ and press button "Add". Then, re-fill: __https://api2.soclall.com/callback__ and press button "Add".
     <div class="soclall-br"></div>
     ![Linkedin : Authentication Page](/img/linkedin-3-authentication-page.jpg)
     <div class="soclall-br"></div> 

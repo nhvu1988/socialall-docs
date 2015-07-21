@@ -37,7 +37,7 @@ $user = $soclall->getUser('token');
 ?>
 ```
 
-The [`user`](user-object.md) object returns JSON structured like this:
+The `result` returns [`user`](user-object.md) JSON object structured like this:
 
 ```
 {
@@ -62,7 +62,7 @@ $friends = $soclall->getFriends('token');
 ?>
 ```
 
-The `friends` object returns an array of [`user`](user-object.md) object like this:
+The `result` returns an array of [`user`](user-object.md) object like this:
 
 ```
 [
@@ -101,4 +101,11 @@ This endpoint will publish a message to user's wall/timeline/stream.
 // Publish a message to wall/timeline/stream
 $soclall->publish('token', 'message');
 ?>
+```
+
+The `result` returns a JSON object structured like this:
+```
+{
+    "link": "https://www.facebook.com/.../posts/..."
+}
 ```

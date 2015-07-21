@@ -3,7 +3,7 @@ __To register an application on Plurk, please follow the steps below:__
 1. Login to [Plurk](http://www.plurk.com/) and go to Page [Plurk App](http://www.plurk.com/PlurkApp) to create application
 2. Press button "Create a new Plurk App" and fill the create form with the below information
     * App type: select "Third-party web site intergration"
-    * OAuth callback: __https://api.soclall.com/callback__
+    * OAuth callback: __https://api2.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Plurk : Create Form](/img/plurk-1-create-form.JPG)

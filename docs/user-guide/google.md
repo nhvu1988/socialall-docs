@@ -11,10 +11,10 @@ __To register an application on Google PLus, please follow the steps below:__
     <div class="soclall-br"></div>
 4. After that, select menu "Credentials", press button "Create new Client ID" and fill the form with the below information
     * Application Type: select __Web application__
-    * Authorized Javascript Origins: __http://api.soclall.com/__
+    * Authorized Javascript Origins: __http://api2.soclall.com/__
     * Authorized Redirect Uris: 
-        - __http://api.soclall.com/callback__
-        - __https://api.soclall.com/callback__
+        - __http://api2.soclall.com/callback__
+        - __https://api2.soclall.com/callback__
 5. Then press button "Create Client ID".
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)
