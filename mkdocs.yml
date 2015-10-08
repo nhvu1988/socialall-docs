@@ -2,7 +2,7 @@ site_name: SoclAll
 repo_url: http://www.soclall.com/
 repo_name: SoclAll
 site_author: SandKlock
-site_favicon: favicon.ico
+site_favicon: favicon32.png
 pages:
 - ['index.md', 'SoclAll']
 - ['user-guide/facebook.md', 'User Guide', 'Facebook']
