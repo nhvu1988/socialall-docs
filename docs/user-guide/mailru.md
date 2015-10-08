@@ -22,7 +22,7 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Mail.Ru : Skip Step 2](/img/mailru-4.2-skip-step.png)
     <div class="soclall-br"></div>
-5. After created application success, you can get the "ID" and "Секретный ключ" to fill SoclAll Mail.Ru Settings form.
+5. After created application success, you can get the "ID" and "Секретный ключ" to fill SocialAll Mail.Ru Settings form.
     <div class="soclall-br"></div>
     ![Mail.Ru : Settings Form](/img/mailru-5-get-app-id.png)
     <div class="soclall-br"></div>

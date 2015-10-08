@@ -10,7 +10,7 @@ __To register an application on Plurk, please follow the steps below:__
     <div class="soclall-br"></div>
     
 3. Then press button "Register App"
-4. After successfully registered the application, go to edit page and get the "App key" and "App secret" to fill SoclAll Plurk Settings form.
+4. After successfully registered the application, go to edit page and get the "App key" and "App secret" to fill SocialAll Plurk Settings form.
     <div class="soclall-br"></div>
     ![Plurk : Edit Form](/img/plurk-2-edit-form.JPG)
     <div class="soclall-br"></div>

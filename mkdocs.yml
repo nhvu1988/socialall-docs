@@ -4,7 +4,7 @@ repo_name: SocialAll
 site_author: SandKlock
 site_favicon: favicon32.png
 pages:
-- ['index.md', 'SoclAll']
+- ['index.md', 'SocialAll']
 - ['user-guide/facebook.md', 'User Guide', 'Facebook']
 - ['user-guide/twitter.md', 'User Guide', 'Twitter']
 - ['user-guide/linkedin.md', 'User Guide', 'Linkedin']

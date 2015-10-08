@@ -10,15 +10,15 @@ __To register an application on Twitter, please follow the steps below:__
     <div class="soclall-br"></div>
 4. After successfully registered the application, go to "Application Management".
 5. In tab "Permissions", please check
-    * Readonly: if you want to use "SoclAll Login" only
-    * Read and Write: if you want to use "SoclAll Posting"
-    * Read, Write and Access direct messages: if you want to use "SoclAll Invite"
+    * Readonly: if you want to use "SocialAll Login" only
+    * Read and Write: if you want to use "SocialAll Posting"
+    * Read, Write and Access direct messages: if you want to use "SocialAll Invite"
      
      <div class="soclall-br"></div>
      ![Twitter : Permission Form](/img/twitter-2-permission-form.JPG)
      <div class="soclall-br"></div>
      
-6. In tab "Keys and Access Tokens", you can find "Consumer Key" and "Consumer Secret" to fill SoclAll Twitter Settings form.
+6. In tab "Keys and Access Tokens", you can find "Consumer Key" and "Consumer Secret" to fill SocialAll Twitter Settings form.
     <div class="soclall-br"></div>
     ![Twitter : Consumer Form](/img/twitter-3-consumer-form.JPG)
     <div class="soclall-br"></div>

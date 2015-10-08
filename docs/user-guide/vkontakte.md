@@ -15,5 +15,5 @@ __To register an application on VK, please follow all steps below:__
     ![VK : Enable App](/img/vk-2-enable-app.png)
     <div class="soclall-br"></div>
     
-4. In the Settings tab, you can also get "Application ID" and "Secure key" to fill SoclAll VK Settings form
+4. In the Settings tab, you can also get "Application ID" and "Secure key" to fill SocialAll VK Settings form
 

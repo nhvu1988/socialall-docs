@@ -12,9 +12,9 @@ __To register an application on LinkedIn, please follow the steps below:__
     <div class="soclall-br"></div>
 4. After create application success, select menu "Authentication" and go to "Authentication" page.
 5. In session "Default Application Permissions", please check:
-    * r_basicprofile: if you want to use "SoclAll Login"
-    * r_emailaddress: if you want to use "SoclAll Invite"
-    * w_share: if you want to use "SoclAll Posting"
+    * r_basicprofile: if you want to use "SocialAll Login"
+    * r_emailaddress: if you want to use "SocialAll Invite"
+    * w_share: if you want to use "SocialAll Posting"
 6. In session "OAuth 2.0", fill "Authorized Redirect URLs" field: __http://api2.socialall.io/callback__ and press button "Add". Then, re-fill: __https://api2.socialall.io/callback__ and press button "Add".
     <div class="soclall-br"></div>
     ![Linkedin : Authentication Page](/img/linkedin-3-authentication-page.jpg)
@@ -24,4 +24,4 @@ __To register an application on LinkedIn, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>    
-9. In "Authentication" page, you can get the "Client ID" and "Client Secret" to fill SoclAll LinkedIn Settings form.
+9. In "Authentication" page, you can get the "Client ID" and "Client Secret" to fill SocialAll LinkedIn Settings form.

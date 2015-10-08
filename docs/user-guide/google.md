@@ -23,7 +23,7 @@ __To register an application on Google PLus, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Google : Enable APIs](/img/google-5-apis.jpg)
     <div class="soclall-br"></div>
-8. After successfully registered the client ID, at "Credentials" page, click select new client ID created, you can get the "Client ID" and "Client Secret" to fill SoclAll Google Settings form.
+8. After successfully registered the client ID, at "Credentials" page, click select new client ID created, you can get the "Client ID" and "Client Secret" to fill SocialAll Google Settings form.
     <div class="soclall-br"></div>
     ![Google : Client Info](/img/google-6-client-info.JPG)
     <div class="soclall-br"></div>

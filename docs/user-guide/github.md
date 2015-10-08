@@ -9,7 +9,7 @@ __To register an application on GitHub, please follow the steps below:__
     <div class="soclall-br"></div>
     
 3. After successfully registered the application, go to "Application Management".
-4. In application details page, you can find "Client ID" and "Client Secret" to fill SoclAll GitHub Settings form.
+4. In application details page, you can find "Client ID" and "Client Secret" to fill SocialAll GitHub Settings form.
     <div class="soclall-br"></div>
     ![GitHub : Api Info](/img/github-2-app-info.png)
     <div class="soclall-br"></div>

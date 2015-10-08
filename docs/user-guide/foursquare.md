@@ -9,7 +9,7 @@ __To register an application on Foursquare, please follow the steps below:__
     <div class="soclall-br"></div>
     
 3. After successfully registered the application, go to "Application Management".
-4. In tab "App Details", you can find "Client ID" and "Client Secret" to fill SoclAll Foursquare Settings form.
+4. In tab "App Details", you can find "Client ID" and "Client Secret" to fill SocialAll Foursquare Settings form.
     <div class="soclall-br"></div>
     ![Foursquare : Api Info](/img/foursquare-2-api-info.png)
     <div class="soclall-br"></div>

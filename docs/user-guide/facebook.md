@@ -23,4 +23,4 @@ __To register an application on Facebook, please follow all steps below:__
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-8. In the Settings page, you can also get "App ID" and "App Secret" to fill SoclAll Facebook Settings form.
+8. In the Settings page, you can also get "App ID" and "App Secret" to fill SocialAll Facebook Settings form.
