@@ -44,7 +44,7 @@ The `result` returns [`user`](user-object.md) JSON object structured like this:
   // general
   "id": 2,
   "username": "Boy",
-  "email": "boy@soclall.com",
+  "email": "boy@socialall.io",
   // name
   "full_name": "Boy Nguyen", // full name || first name + lastname
   ...
@@ -69,13 +69,13 @@ The `result` returns an array of [`user`](user-object.md) object like this:
   {
     "id": 2,
     "username": "Boy",
-    "email": "boy@soclall.com",
+    "email": "boy@socialall.io",
     ...
   },
   {
     "id": 3,
     "username": "Girl",
-    "email": "girl@soclall.com",
+    "email": "girl@socialall.io",
     ...
   }
 ]

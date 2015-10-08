@@ -4,7 +4,7 @@ __To register an application on Reddit, please follow the steps below:__
 
 2. Press button "are you a developer? create an app..." and fill the create form with the below information
     * Select "web app"
-    * redirect uri: __https://api2.soclall.com/callback__
+    * redirect uri: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![Reddit : Create Form](/img/reddit-1-create-form.JPG)

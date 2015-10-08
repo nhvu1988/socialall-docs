@@ -2,7 +2,7 @@ __To register an application on GitHub, please follow the steps below:__
 
 1. Login to [GitHub](https://github.com/) and go to Page [GitHub App](https://github.com/settings/applications) to create application
 2. Select tab "Developer applications", then press button "Register new application" and fill the application form with the below information:
-    * Authorization callback URL: __https://api2.soclall.com/callback__
+    * Authorization callback URL: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![GitHub : Create Form](/img/github-1-create-form.png)

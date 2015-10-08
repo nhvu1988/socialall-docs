@@ -6,8 +6,8 @@ __To register an application on Disqus, please follow all steps below:__
     ![Disqus : Create Form](/img/disqus-1-create-form.png)
     <div class="soclall-br"></div>
 3. Go to Settings tab and fill below information
-    * Domain: __soclall.com__
-    * Callback URL: __https://api2.soclall.com/callback__
+    * Domain: __socialall.io__
+    * Callback URL: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![Disqus : Settings](/img/disqus-2-settings.png)

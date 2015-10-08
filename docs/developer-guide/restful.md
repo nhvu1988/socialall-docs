@@ -4,7 +4,7 @@ Let user login and authenticate with your application.
 
 __HTTP REQUEST__
 
-`REDIRECT https://api2.soclall.com/login`
+`REDIRECT https://api2.socialall.io/login`
 
 __Query Parameters__
 
@@ -50,7 +50,7 @@ This endpoint retrieves user information.
 
 __HTTP Request__
 
-`GET https://api2.soclall.com/user`
+`GET https://api2.socialall.io/user`
 
 __Query Parameters__
 
@@ -70,7 +70,7 @@ This endpoint retrieves user's friends.
 
 __HTTP Request__
 
-`GET https://api2.soclall.com/friends`
+`GET https://api2.socialall.io/friends`
 
 __URL Parameters__
 
@@ -88,7 +88,7 @@ This endpoint will send `message` to user's friends.
 
 __HTTP Request__
 
-`GET https://api2.soclall.com/message`
+`GET https://api2.socialall.io/message`
 
 __URL Parameters__
 
@@ -111,7 +111,7 @@ This endpoint will publish a message to user's wall/timeline/stream.
 
 __HTTP Request__
 
-`GET https://api2.soclall.com/publish`
+`GET https://api2.socialall.io/publish`
 
 __URL Parameters__
 

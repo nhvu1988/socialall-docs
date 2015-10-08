@@ -8,8 +8,8 @@ __To register an application on VK, please follow all steps below:__
 3. Go to Settings tab
     * Change Application status to "Application on and visible to all"
     * Change Open API to "Enabled" and fill below information
-        - Site address: __http://soclall.com__
-        - Base domain: __soclall.com__
+        - Site address: __http://socialall.io__
+        - Base domain: __socialall.io__
     
     <div class="soclall-br"></div>
     ![VK : Enable App](/img/vk-2-enable-app.png)

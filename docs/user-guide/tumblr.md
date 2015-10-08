@@ -2,7 +2,7 @@ __To register an application on Tumblr, please follow the steps below:__
 
 1. Login to [Tumblr](https://www.tumblr.com/) and go to Page [Tumblr Apps](https://www.tumblr.com/oauth/apps) to create application
 2. Press button "+ Register application" and then fill the create form with the below information
-    * Default callback URL: __https://api2.soclall.com/callback__
+    * Default callback URL: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![Tumblr : Register Form](/img/tumblr-1-register-form.jpg)
