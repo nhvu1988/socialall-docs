@@ -5,13 +5,13 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Mail.Ru : Create App](/img/mailru-1-create-app.png)
     <div class="soclall-br"></div>
-2. Select "? ???????? ??????? ????????????? ?????????@Mail.Ru" and press the button in red rectangle.
+2. Select "Я принимаю правила использования Платформы@Mail.Ru" and press the button in red rectangle.
     <div class="soclall-br"></div>
     ![Mail.Ru : Accept the rules](/img/mailru-2-accept-per.png)
     <div class="soclall-br"></div>
 3. Fill the create form with the below information
-    * ????????: SoclAll
-    * ????? ??????? ????????: __https://api2.soclall.com/__ <br />
+    * Название: SoclAll
+    * Адрес главной страницы: __https://api2.soclall.com/__ <br />
    Then press the button in red rectangle.
     <div class="soclall-br"></div>
     ![Mail.Ru : Create Form](/img/mailru-3-create-form.png)
@@ -22,7 +22,7 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Mail.Ru : Skip Step 2](/img/mailru-4.2-skip-step.png)
     <div class="soclall-br"></div>
-5. After created application success, you can get the "ID" and "????????? ????" to fill SoclAll Mail.Ru Settings form.
+5. After created application success, you can get the "ID" and "Секретный ключ" to fill SoclAll Mail.Ru Settings form.
     <div class="soclall-br"></div>
     ![Mail.Ru : Settings Form](/img/mailru-5-get-app-id.png)
     <div class="soclall-br"></div>
