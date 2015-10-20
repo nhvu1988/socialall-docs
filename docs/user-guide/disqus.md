@@ -13,7 +13,11 @@ __To register an application on Disqus, please follow all steps below:__
     ![Disqus : Settings](/img/disqus-2-settings.png)
     <div class="soclall-br"></div>
     
-4. In the Details tab, you can also get "API Key" and "API Secret" to fill SocialAll Disqus Settings form
+4. In the Details tab, you can see "API Key" and "API Secret".
     <div class="soclall-br"></div>
     ![Disqus : Api Info](/img/disqus-3-api-info.png)
+    <div class="soclall-br"></div>
+5. In SocialAll page, you choose tab "Networks" ---> choose "Disqus" ---> fill the "API Key" and "API Secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![Disqus : Api Info](/img/disqus-4-config-soclall.png)
     <div class="soclall-br"></div>
