@@ -23,4 +23,11 @@ __To register an application on Facebook, please follow all steps below:__
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-8. In the Settings page, you can also get "App ID" and "App Secret" to fill SocialAll Facebook Settings form.
+8. In the Settings page, you can see "App ID" and "App Secret". To can copy "App Secret", you click "Show" button ---> enter Password of your Facebook account.
+    <div class="soclall-br"></div>
+    ![Facebook : Get Api](/img/facebook-5-get-api.jpg)
+    <div class="soclall-br"></div>
+9. In SocialAll page, you choose tab "Networks" ---> choose "Facebook" ---> fill the "App ID" and "App Secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![Facebook : Config Api](/img/facebook-6-config-api.jpg)
+    <div class="soclall-br"></div>

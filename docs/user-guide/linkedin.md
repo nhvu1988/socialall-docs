@@ -24,4 +24,11 @@ __To register an application on LinkedIn, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>    
-9. In "Authentication" page, you can get the "Client ID" and "Client Secret" to fill SocialAll LinkedIn Settings form.
+9. In "Authentication" page, you can see "Client ID" and "Client Secret".
+    <div class="soclall-br"></div>
+    ![LinkedIn : Get Api](/img/linkedin-5-get-api.jpg)
+    <div class="soclall-br"></div>
+10. In SocialAll page, you choose tab "Networks" ---> choose "LinkedIn" ---> fill the "Client ID" and "Client Secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![LinkedIn : Config Api](/img/linkedin-6-config-api.jpg)
+    <div class="soclall-br"></div>

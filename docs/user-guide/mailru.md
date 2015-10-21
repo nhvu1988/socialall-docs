@@ -26,3 +26,7 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Mail.Ru : Settings Form](/img/mailru-5-get-app-id.png)
     <div class="soclall-br"></div>
+6. In SocialAll page, you choose tab "Networks" ---> choose "Mail.Ru" ---> fill the "ID" into "client_id" and "Секретный ключ" into "client_secret" like image below:
+    <div class="soclall-br"></div>
+    ![Mail.Ru : Config Api](/img/mailru-6-config-api.png)
+    <div class="soclall-br"></div>

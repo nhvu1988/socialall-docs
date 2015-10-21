@@ -15,5 +15,9 @@ __To register an application on VK, please follow all steps below:__
     ![VK : Enable App](/img/vk-2-enable-app.png)
     <div class="soclall-br"></div>
     
-4. In the Settings tab, you can also get "Application ID" and "Secure key" to fill SocialAll VK Settings form
+4. In the Settings tab, you can see "Application ID" and "Secure key".
+5. In SocialAll page, you choose tab "Networks" ---> choose "Vkontakte" ---> fill the "Application ID" and "Secure key" into the form like image below:
+    <div class="soclall-br"></div>
+    ![VK : Config Api](/img/vk-3-config-api.png)
+    <div class="soclall-br"></div>
 

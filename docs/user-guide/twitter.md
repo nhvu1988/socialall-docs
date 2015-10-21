@@ -18,7 +18,11 @@ __To register an application on Twitter, please follow the steps below:__
      ![Twitter : Permission Form](/img/twitter-2-permission-form.JPG)
      <div class="soclall-br"></div>
      
-6. In tab "Keys and Access Tokens", you can find "Consumer Key" and "Consumer Secret" to fill SocialAll Twitter Settings form.
+6. In tab "Keys and Access Tokens", you can see "Consumer Key" and "Consumer Secret".
     <div class="soclall-br"></div>
     ![Twitter : Consumer Form](/img/twitter-3-consumer-form.JPG)
+    <div class="soclall-br"></div>
+7. In SocialAll page, you choose tab "Networks" ---> choose "Twitter" ---> fill the "Consumer Key" and "Consumer Secret" into the form like image below:
+    <div class="soclall-br"></div>
+    ![Twitter : Config Api](/img/twitter-4-config-api.jpg)
     <div class="soclall-br"></div>

@@ -9,7 +9,11 @@ __To register an application on Tumblr, please follow the steps below:__
     <div class="soclall-br"></div>
     
 3. Then press button "Register"
-4. After successfully registered the application, go to edit app page and get the "OAuth consumer key" and "OAuth consumer secret" to fill SocialAll Tumblr Settings form.
+4. After successfully registered the application, go to edit app page and you can see "OAuth consumer key" and "OAuth consumer secret".
     <div class="soclall-br"></div>
     ![Tumblr : Register App](/img/tumblr-2-registered-app.jpg)
+    <div class="soclall-br"></div>
+5. In SocialAll page, you choose tab "Networks" ---> choose "Tumblr" ---> fill the "OAuth consumer key" and "OAuth consumer secret" into the form like image below:
+    <div class="soclall-br"></div>
+    ![Tumblr : Config Api](/img/tumblr-3-config-api.jpg)
     <div class="soclall-br"></div>

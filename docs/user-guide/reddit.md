@@ -11,7 +11,11 @@ __To register an application on Reddit, please follow the steps below:__
     <div class="soclall-br"></div>
     
 3. Then press button "create app"
-4. After successfully registered the application, go to edit page and get the "key" and "secret" to fill SocialAll Reddit Settings form.
+4. After successfully registered the application, go to edit page and you can see the "key" and "secret".
     <div class="soclall-br"></div>
     ![Reddit : Edit Form](/img/reddit-2-edit-form.JPG)
+    <div class="soclall-br"></div>
+5. In SocialAll page, you choose tab "Networks" ---> choose "Reddit" ---> fill the "key" and "secret" into the form like image below:
+    <div class="soclall-br"></div>
+    ![Reddit : Config Api](/img/reddit-3-config-api.jpg)
     <div class="soclall-br"></div>

@@ -12,7 +12,11 @@ __To register an application on Last.fm, please follow the steps below:__
     ![Last.fm : Update Callback](/img/lastfm-2-update-callback.JPG)
     <div class="soclall-br"></div>
     
-4. In this page, you can get the "API Key" and "Secret" to fill SocialAll Last.fm Settings form.
+4. In this page, you can see the "API Key" and "Secret".
     <div class="soclall-br"></div>
     ![Last.fm : Settings](/img/lastfm-3-settings.JPG)
+    <div class="soclall-br"></div>
+5. In SocialAll page, you choose tab "Networks" ---> choose "Last.fm" ---> fill the "API Key" and "Secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![Last.fm : Config Api](/img/lastfm-4-config-api.jpg)
     <div class="soclall-br"></div>
