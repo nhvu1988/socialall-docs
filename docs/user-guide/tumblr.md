@@ -17,3 +17,4 @@ __To register an application on Tumblr, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Tumblr : Config Api](/img/tumblr-3-config-api.jpg)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

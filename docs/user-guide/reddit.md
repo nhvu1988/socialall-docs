@@ -19,3 +19,4 @@ __To register an application on Reddit, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Reddit : Config Api](/img/reddit-3-config-api.jpg)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

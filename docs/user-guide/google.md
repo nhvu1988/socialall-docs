@@ -31,3 +31,4 @@ __To register an application on Google PLus, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Google : Config Api](/img/google-7-config-api.jpg)
     <div class="soclall-br"></div>
+10. Finaly, you press "Save" button.

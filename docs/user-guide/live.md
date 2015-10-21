@@ -17,5 +17,6 @@ __To register an application on Live, please follow the steps below:__
     <div class="soclall-br"></div>
 6. In SocialAll page, you choose tab "Networks" ---> choose "Live" ---> fill the "Client ID" and "Client Secret" into form like image below:
     <div class="soclall-br"></div>
-    ![Live : Config Api](/img/live-3-config-api.JPG.jpg)
+    ![Live : Config Api](/img/live-3-config-api.jpg)
     <div class="soclall-br"></div>
+7. Finaly, you press "Save" button.

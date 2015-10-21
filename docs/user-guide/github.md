@@ -17,3 +17,4 @@ __To register an application on GitHub, please follow the steps below:__
     <div class="soclall-br"></div>
     ![GitHub : Config Api](/img/github-3-config-api.png)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

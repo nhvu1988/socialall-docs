@@ -31,3 +31,4 @@ __To register an application on Facebook, please follow all steps below:__
     <div class="soclall-br"></div>
     ![Facebook : Config Api](/img/facebook-6-config-api.jpg)
     <div class="soclall-br"></div>
+10. Finaly, you press "Save" button.

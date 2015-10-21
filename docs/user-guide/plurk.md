@@ -18,3 +18,4 @@ __To register an application on Plurk, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Plurk : Config Api](/img/plurk-3-config-api.jpg)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

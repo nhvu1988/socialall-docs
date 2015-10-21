@@ -16,3 +16,4 @@ __To register an application on Wordpress, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Wordpress : Config Api](/img/wordpress-3-config-api.png)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

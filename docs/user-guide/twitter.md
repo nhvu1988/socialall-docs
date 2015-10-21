@@ -26,3 +26,4 @@ __To register an application on Twitter, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Twitter : Config Api](/img/twitter-4-config-api.jpg)
     <div class="soclall-br"></div>
+8. Finaly, you press "Save" button.

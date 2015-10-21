@@ -20,4 +20,5 @@ __To register an application on VK, please follow all steps below:__
     <div class="soclall-br"></div>
     ![VK : Config Api](/img/vk-3-config-api.png)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.
 

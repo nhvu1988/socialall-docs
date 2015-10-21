@@ -17,3 +17,4 @@ __To register an application on Foursquare, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Foursquare : Config Api](/img/foursquare-3-config-api.png)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

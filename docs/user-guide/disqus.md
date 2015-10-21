@@ -21,3 +21,4 @@ __To register an application on Disqus, please follow all steps below:__
     <div class="soclall-br"></div>
     ![Disqus : Config Api](/img/disqus-4-config-soclall.png)
     <div class="soclall-br"></div>
+6. Finaly, you press "Save" button.

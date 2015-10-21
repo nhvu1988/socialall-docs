@@ -32,3 +32,4 @@ __To register an application on LinkedIn, please follow the steps below:__
     <div class="soclall-br"></div>
     ![LinkedIn : Config Api](/img/linkedin-6-config-api.jpg)
     <div class="soclall-br"></div>
+11. Finaly, you press "Save" button.

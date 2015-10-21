@@ -30,3 +30,4 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
     ![Mail.Ru : Config Api](/img/mailru-6-config-api.png)
     <div class="soclall-br"></div>
+7. Finaly, you press "Save" button.
