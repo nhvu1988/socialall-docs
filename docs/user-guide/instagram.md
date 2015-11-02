@@ -11,7 +11,7 @@ __To register an application on Instagram, please follow all steps below:__
     ![Instagram : Create new client](/img/ins-2-register-app.png)
     <div class="soclall-br"></div>
 5. You fill the information below: 
-    * Website URL: https://api2.socialall.io/
+    * Website URL: __https://api2.socialall.io/__
     * Valid redirect URIs: __http://api2.socialall.io/callback__. And fill again: __https://api2.socialall.io/callback__
     
     ![Instagram : Create new client form](/img/ins-3-register-form.png)
