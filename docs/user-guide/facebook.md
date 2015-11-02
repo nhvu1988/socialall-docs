@@ -1,3 +1,6 @@
+__Step-by-Step Guide to Setup Facebook App:__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xt8w-yQHgk" frameborder="0" allowfullscreen></iframe>
+
 __To register an application on Facebook, please follow all steps below:__
 
 1. Login to [Facebook](http://www.facebook.com) and go to [Facebook Developer Page](https://developers.facebook.com/quickstarts/?platform=web) to create application.
