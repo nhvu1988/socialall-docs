@@ -20,6 +20,7 @@ pages:
 - ['user-guide/wordpress.md', 'User Guide', 'Wordpress']
 - ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
 - ['user-guide/github.md', 'User Guide', 'GitHub']
+- ['user-guide/instagram.md', 'User Guide', 'Instagram']
 - ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
 - ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']

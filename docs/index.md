@@ -14,6 +14,7 @@
     * [Wordpress](user-guide/wordpress.md)
     * [Foursquare](user-guide/foursquare.md)
     * [Github](user-guide/github.md)
+    * [Instagram](user-guide/instagram.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
     * [RESTful](developer-guide/restful.md)
