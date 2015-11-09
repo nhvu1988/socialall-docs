@@ -21,6 +21,7 @@ pages:
 - ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
 - ['user-guide/github.md', 'User Guide', 'GitHub']
 - ['user-guide/instagram.md', 'User Guide', 'Instagram']
+- ['user-guide/pinterest.md', 'User Guide', 'Pinterest']
 - ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
 - ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']

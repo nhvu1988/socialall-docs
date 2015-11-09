@@ -15,6 +15,7 @@
     * [Foursquare](user-guide/foursquare.md)
     * [Github](user-guide/github.md)
     * [Instagram](user-guide/instagram.md)
+    * [Pinterest](user-guide/pinterest.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
     * [RESTful](developer-guide/restful.md)

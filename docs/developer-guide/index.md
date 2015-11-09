@@ -30,6 +30,7 @@ Wordpress | wordpress | <i class="fa fa-check soclall-icon-check"></i> | | |
 Foursquare | foursquare | <i class="fa fa-check soclall-icon-check"></i> | | |
 Github | github | <i class="fa fa-check soclall-icon-check"></i> | | |
 Instagram | instagram | <i class="fa fa-check soclall-icon-check"></i> | | |
+Pinterest | pinterest | <i class="fa fa-check soclall-icon-check"></i> | | |
 
 # Languages
 
