@@ -16,6 +16,7 @@ __To register an application on Pinterest, please follow all steps below:__
     
     ![Pinterest : Platforms form](/img/pin-3-platforms.png)
     <div class="soclall-br"></div>
+    
 6. If done, press "Save" button.
 7. In the top of the page, you can see the "App ID" and "App secret". If you want see "App secret", please press "Show" button.
     <div class="soclall-br"></div>
