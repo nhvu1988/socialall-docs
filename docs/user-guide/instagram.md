@@ -23,4 +23,7 @@ __To register an application on Instagram, please follow all steps below:__
     ![Instagram : Manage Clients](/img/ins-4-manage-clients.png)
     <div class="soclall-br"></div>
 8. In SocialAll page, you choose tab "Networks" ---> choose "Instagram" ---> fill the "Client ID" and "Client Secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![Instagram : Fill API](/img/ins-5-fill-api.png)
+    <div class="soclall-br"></div>
 9. Finaly, you press "Save" button.
