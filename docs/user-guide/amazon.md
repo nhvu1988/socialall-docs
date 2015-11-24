@@ -9,8 +9,8 @@ __To register an application on Amazon, please follow all steps below:__
 4. In "Settings" tab, choose "Web Settings" section and fill the information below:
     * Allowed Return URLs: __https://api2.socialall.io/callback__
     
-    <div class="soclall-br"></div>
     ![Amazon : Settings App](/img/amazon-2-settings-form.png)
+    <div class="soclall-br"></div>
     
 5. And press "Save" button.
 6. In "Web Settings" section, you can see the "Client ID" and "Client Secret". To can see "Client Secret", you press "Show Secret" button.
