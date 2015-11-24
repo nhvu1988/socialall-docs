@@ -16,6 +16,7 @@
     * [Github](user-guide/github.md)
     * [Instagram](user-guide/instagram.md)
     * [Pinterest](user-guide/pinterest.md)
+    * [Amazon](user-guide/amazon.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
     * [RESTful](developer-guide/restful.md)
