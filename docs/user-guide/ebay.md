@@ -32,6 +32,7 @@ __To register an application on Ebay, please follow all steps below:__
     
     ![Ebay : Application Settings](/img/ebay-5-manage-runame.png)
     <div class="soclall-br"></div>
+    
 9. If done, press "Save Settings" button again.
 10. In SocialAll page, you choose tab "Networks" ---> choose "Ebay" ---> fill the "DevID", "AppID", "CertID" and "RuName" into form like image below:
     
