@@ -14,5 +14,5 @@ __To register an application on Amazon, please follow all steps below:__
     
 5. And press "Save" button.
 6. In "Web Settings" section, you can see the "Client ID" and "Client Secret". To can see "Client Secret", you press "Show Secret" button.
-9. In SocialAll page, you choose tab "Networks" ---> choose "Amazon" ---> fill the "Client ID" and "Client Secret" into form like image below:
-10. Finaly, you press "Save" button.
+7. In SocialAll page, you choose tab "Networks" ---> choose "Amazon" ---> fill the "Client ID" and "Client Secret" into form like image below:
+8. Finaly, you press "Save" button.

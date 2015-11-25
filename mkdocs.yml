@@ -23,6 +23,7 @@ pages:
 - ['user-guide/instagram.md', 'User Guide', 'Instagram']
 - ['user-guide/pinterest.md', 'User Guide', 'Pinterest']
 - ['user-guide/amazon.md', 'User Guide', 'Amazon']
+- ['user-guide/ebay.md', 'User Guide', 'Ebay']
 - ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
 - ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']
