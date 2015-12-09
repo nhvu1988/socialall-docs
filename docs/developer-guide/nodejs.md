@@ -13,7 +13,7 @@ npm install soclall-api --save
 
 ```
 // Register app id and secret key
-var SoclAll = require('soclall-api'), soclall = new SoclAll('app_id', 'secret_key');
+var SocialAll = require('soclall-api'), socialall = new SoclAll('app_id', 'secret_key');
 ```
 
 ## Authentication
@@ -22,7 +22,7 @@ Let user login and authenticate with your application.
 
 ```
 // Get login url
-var login_url = soclall.getLoginUrl('network', 'callback_url');
+var login_url = socialall.getLoginUrl('network', 'callback_url');
 // Redirect user to login url
 res.redirect(login_url);
 ```
@@ -35,7 +35,7 @@ This endpoint retrieves user information.
 
 ```
 // An user object returns in callback function
-soclall.getUser('token', function(err, user){});
+socialall.getUser('token', function(err, user){});
 ```
 
 The `result` returns [`user`](user-object.md) JSON object structured like this:
@@ -58,7 +58,7 @@ This endpoint retrieves user's friends.
 
 ```
 // An array of user returns in callback function
-soclall.getFriends('token', function(err, friends){});
+socialall.getFriends('token', function(err, friends){});
 ```
 
 The `result` returns an array of [`user`](user-object.md) object like this:
@@ -86,7 +86,7 @@ This endpoint will send `message` to user's friends.
 
 ```
 // Send a message to friends
-soclall.sendMessage('token', 'message', friend_ids, ['title',] function(err){});
+socialall.sendMessage('token', 'message', friend_ids, ['title',] function(err){});
 ```
 
 ### /publish
@@ -95,7 +95,7 @@ This endpoint will publish a message to user's wall/timeline/stream.
 
 ```
 // Publish a message to wall/timeline/stream
-soclall.publish('token', 'message', function(err){});
+socialall.publish('token', 'message', function(err){});
 ```
 
 The `result` returns a JSON object structured like this:

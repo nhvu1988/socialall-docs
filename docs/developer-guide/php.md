@@ -7,7 +7,7 @@ Clone with git
 ```
 <?php
 // Register app id and secret key
-$soclall = new SoclAll('app_id', 'secret_key');
+$socialall = new SoclAll('app_id', 'secret_key');
 ?>
 ```
 
@@ -18,7 +18,7 @@ Let user login and authenticate with your application.
 ```
 <?php
 // Get login url
-$login_url = $soclall->getLoginUrl('network', 'callback_url');
+$login_url = $socialall->getLoginUrl('network', 'callback_url');
 // Redirect user to login url
 header('Location: '.$login_url);
 ?>
@@ -33,7 +33,7 @@ This endpoint retrieves user information.
 ```
 <?php
 // Get user object
-$user = $soclall->getUser('token');
+$user = $socialall->getUser('token');
 ?>
 ```
 
@@ -58,7 +58,7 @@ This endpoint retrieves user's friends.
 ```
 <?php
 // Get friend list
-$friends = $soclall->getFriends('token');
+$friends = $socialall->getFriends('token');
 ?>
 ```
 
@@ -88,7 +88,7 @@ This endpoint will send `message` to user's friends.
 ```
 <?php
 // Send a message to friends
-$soclall->sendMessage('token', 'message', $friend_ids, $title = '');
+$socialall->sendMessage('token', 'message', $friend_ids, $title = '');
 ?>
 ```
 
@@ -99,7 +99,7 @@ This endpoint will publish a message to user's wall/timeline/stream.
 ```
 <?php
 // Publish a message to wall/timeline/stream
-$soclall->publish('token', 'message');
+$socialall->publish('token', 'message');
 ?>
 ```
 
