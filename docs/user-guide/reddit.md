@@ -1,4 +1,4 @@
-__Step-by-Step Guide to Setup Twitter App:__
+__Step-by-Step Guide to Setup Reddit App:__
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnz4ckIzCqU" frameborder="0" allowfullscreen></iframe>
 <br /><br />
