@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Twitter App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnz4ckIzCqU" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Reddit, please follow the steps below:__
 
 1. Login to [Reddit](https://www.reddit.com/) and go to Page [Reddit Apps](https://www.reddit.com/prefs/apps/) to create application

@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Twitter App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp7x0ZJHwxY" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Twitter, please follow the steps below:__
 
 1. Login to [Twitter](https://www.twitter.com/) and go to Page [Twitter App](http://apps.twitter.com/) to create application.
