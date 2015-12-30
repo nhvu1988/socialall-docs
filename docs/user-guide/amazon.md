@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Amazon App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zm_DKJf0XE" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Amazon, please follow all steps below:__
 
 1. Sign in to [Amazon](https://login.amazon.com/) and go to [Amazon Developer Page](https://sellercentral.amazon.com/gp/homepage.html) to create application.

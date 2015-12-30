@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Wordpress App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6igclVDlPs" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Wordpress, please follow the steps below:__
 
 1. Login to [Wordpress](https://developer.wordpress.com/apps/) and go to Page [Wordpress App](https://developer.wordpress.com/apps/new/) to create application

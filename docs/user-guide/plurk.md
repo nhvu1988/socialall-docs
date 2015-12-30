@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Plurk App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOgCNtWp8bI" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Plurk, please follow the steps below:__
 
 1. Login to [Plurk](http://www.plurk.com/) and go to Page [Plurk App](http://www.plurk.com/PlurkApp) to create application

@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Tumblr App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uf_EkYamUUI" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Tumblr, please follow the steps below:__
 
 1. Login to [Tumblr](https://www.tumblr.com/) and go to Page [Tumblr Apps](https://www.tumblr.com/oauth/apps) to create application

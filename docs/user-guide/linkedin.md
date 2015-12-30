@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup LinkedIn App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUAFMKpAQZo" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on LinkedIn, please follow the steps below:__
 
 1. Login to [LinkedIn](https://www.linkedin.com/) and go to Page [LinkedIn App](https://www.linkedin.com/secure/developer) to create application

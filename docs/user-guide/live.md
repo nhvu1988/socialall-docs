@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Live App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25u_82RGyOc" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Live, please follow the steps below:__
 
 1. Login to [Microsoft account](https://account.live.com/) and go to Page [Microsoft Developer](https://account.live.com/developers/applications) to create application

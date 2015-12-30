@@ -1,3 +1,7 @@
+__Step-by-Step Guide to Setup Mail.Ru App:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbIhAOz6s4Y" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __To register an application on Mail.Ru, please follow the steps below:__
 
 1. Login to [Mail.Ru](https://e.mail.ru/signup?lang=en_US) and go to Page [Mail.Ru App](http://api.mail.ru/sites/my/add/) to create application. <br />
