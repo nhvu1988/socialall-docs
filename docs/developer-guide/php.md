@@ -109,3 +109,51 @@ The `result` returns a JSON object structured like this:
     "link": "https://www.facebook.com/.../posts/..."
 }
 ```
+
+### /pages
+
+This endpoint retrieves user's pages.
+
+```
+<?php
+// Get page list
+$pages = $socialall->getPages('token');
+?>
+```
+
+The `result` returns an array of [`page`](page-object.md) object like this:
+
+```
+[
+  {
+    "id": jefg48546,
+    "name": "Your Page 1",
+    "token": "......",
+    ...
+  },
+  {
+    "id": keugr4856,
+    "name": "Your Page 2",
+    "token": ".....",
+    ...
+  }
+]
+```
+
+### /publish_page
+
+This endpoint will publish a message to page's wall/timeline/stream.
+
+```
+<?php
+// Publish a message to page's 'wall/timeline/stream
+$socialall->postPage('token', 'page_id', 'page_token', 'message');
+?>
+```
+
+The `result` returns a JSON object structured like this:
+```
+{
+    "link": "https://www.facebook.com/.../posts/..."
+}
+```

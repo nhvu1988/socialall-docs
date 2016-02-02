@@ -127,3 +127,46 @@ The `result` return an object include fields:
 Name | Description | Type
 ---- | ----------- | ----
 link | new posted link(if exist) or empty string | string
+
+### /pages
+
+This endpoint retrieves user's pages.
+
+__HTTP Request__
+
+`GET https://api2.socialall.io/pages`
+
+__URL Parameters__
+
+Parameter | Value | Description
+--------- | ------- | -----------
+token |  | User's token
+
+__Response__
+
+The `result` return array of [`page`](page-object.md) objects
+
+### /publish_page
+
+This endpoint will publish a message to page's wall/timeline/stream.
+
+__HTTP Request__
+
+`GET https://api2.socialall.io/publish_page`
+
+__URL Parameters__
+
+Parameter | Value | Description
+--------- | ------- | -----------
+token | | User's token
+page_id | | ID of page
+page_token | | access token of page
+message | | Message 
+
+__Response__
+
+The `result` return an object include fields:
+
+Name | Description | Type
+---- | ----------- | ----
+link | new posted link(if exist) or empty string | string
