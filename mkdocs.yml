@@ -29,6 +29,7 @@ pages:
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']
 - ['developer-guide/php.md', 'Developer Guide', 'PHP']
 - ['developer-guide/user-object.md', 'Developer Guide', 'User Object']
+- ['developer-guide/page-object.md', 'Developer Guide', 'Page Object']
 theme: readthedocs
 extra_css: ['css/soclall.css']
 extra_javascript: ['js/soclall.js']
