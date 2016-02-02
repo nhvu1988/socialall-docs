@@ -117,7 +117,7 @@ This endpoint retrieves user's pages.
 ```
 <?php
 // Get page list
-$pages = $socialall->getPages('token');
+$pages = $socialall->getPages($token);
 ?>
 ```
 
@@ -126,13 +126,13 @@ The `result` returns an array of [`page`](page-object.md) object like this:
 ```
 [
   {
-    "id": jefg48546,
+    "id": "jefg48546",
     "name": "Your Page 1",
     "token": "......",
     ...
   },
   {
-    "id": keugr4856,
+    "id": "keugr4856",
     "name": "Your Page 2",
     "token": ".....",
     ...
@@ -147,7 +147,7 @@ This endpoint will publish a message to page's wall/timeline/stream.
 ```
 <?php
 // Publish a message to page's 'wall/timeline/stream
-$socialall->postPage('token', 'page_id', 'page_token', 'message');
+$socialall->postPage($token, $page_id, $page_token, $message);
 ?>
 ```
 
