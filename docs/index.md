@@ -18,6 +18,8 @@
     * [Pinterest](user-guide/pinterest.md)
     * [Amazon](user-guide/amazon.md)
     * [Ebay](user-guide/ebay.md)
+    * [Yahoo](user-guide/yahoo.md)
+    * [Twitch](user-guide/twitch.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
     * [RESTful](developer-guide/restful.md)

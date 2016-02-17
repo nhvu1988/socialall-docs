@@ -23,4 +23,7 @@ __To register an application on Pinterest, please follow all steps below:__
     ![Pinterest : Get API](/img/pin-4-get-api.png)
     <div class="soclall-br"></div>
 8. In SocialAll page, you choose tab "Networks" ---> choose "Pinterest" ---> fill the "App ID" and "App secret" into form like image below:
+    <div class="soclall-br"></div>
+    ![Pinterest : Config API](/img/pin-5-config-api.png)
+    <div class="soclall-br"></div>
 9. Finaly, you press "Save" button.

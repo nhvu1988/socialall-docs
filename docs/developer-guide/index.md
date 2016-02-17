@@ -33,6 +33,8 @@ Instagram | instagram | <i class="fa fa-check soclall-icon-check"></i> | | | | |
 Pinterest | pinterest | <i class="fa fa-check soclall-icon-check"></i> | | | | |
 Amazon | amazon | <i class="fa fa-check soclall-icon-check"></i> | | | | |
 Ebay | ebay | <i class="fa fa-check soclall-icon-check"></i> | | | | |
+Yahoo | yahoo | <i class="fa fa-check soclall-icon-check"></i> | | | | |
+Twitch | twitch | <i class="fa fa-check soclall-icon-check"></i> | | | | |
 
 # Languages
 
