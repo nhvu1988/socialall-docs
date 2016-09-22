@@ -10,4 +10,7 @@ __To register an application on Steam, please follow all steps below:__
     ![Steam : Api key](/img/steam-2-api-key.png)
     <div class="soclall-br"></div>
 4. In SocialAll page, you choose tab "Networks" ---> choose "Steam" ---> fill the "Api Key" into form like image below:
+    <div class="soclall-br"></div>
+    ![Steam : Socialall](/img/steam-3-socialall.png)
+    <div class="soclall-br"></div>
 5. Finaly, you press "Save" button.
