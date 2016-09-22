@@ -26,6 +26,7 @@ pages:
 - ['user-guide/ebay.md', 'User Guide', 'Ebay']
 - ['user-guide/yahoo.md', 'User Guide', 'Yahoo']
 - ['user-guide/twitch.md', 'User Guide', 'Twitch']
+- ['user-guide/steam.md', 'User Guide', 'Steam']
 - ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
 - ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
 - ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']

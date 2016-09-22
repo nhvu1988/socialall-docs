@@ -20,6 +20,7 @@
     * [Ebay](user-guide/ebay.md)
     * [Yahoo](user-guide/yahoo.md)
     * [Twitch](user-guide/twitch.md)
+    * [Steam](user-guide/steam.md)
 * Developer Guide
     * [Getting Started](developer-guide/)
     * [RESTful](developer-guide/restful.md)
