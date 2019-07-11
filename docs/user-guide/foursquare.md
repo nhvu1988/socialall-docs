@@ -2,7 +2,7 @@ __To register an application on Foursquare, please follow the steps below:__
 
 1. Login to [Foursquare](https://developer.foursquare.com/) and go to Page [Foursquare App](https://foursquare.com/developers/register) to create application
 2. Press button "Create A New App" and then fill the application form with the below information
-    * Redirect URI(s): __https://api2.socialall.io/callback__
+    * Redirect URI(s): __https://api2.socialall.dev/callback__
     
     <div class="soclall-br"></div>
     ![Foursquare : Create Form](/img/foursquare-1-create-form.png)

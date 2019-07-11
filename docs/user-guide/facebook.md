@@ -16,8 +16,8 @@ __Step-by-Step Guide to Setup Facebook App:__
     <div class="soclall-br"></div>
 4. Press button "Skip Quick Start" and go to page "App Setting".
 5. Select "Settings" menu, then press button "+ Add Platform" ---> select "Website" ---> fill the information below:
-    * App Domains: __api2.socialall.io__
-    * Site URL: __https://api2.socialall.io/callback__  
+    * App Domains: __api2.socialall.dev__
+    * Site URL: __https://api2.socialall.dev/callback__  
 
     ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
     <div class="soclall-br"></div>

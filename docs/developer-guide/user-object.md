@@ -3,7 +3,7 @@
   // general
   "id": 2,
   "username": "Boy",
-  "email": "boy@socialall.io",
+  "email": "boy@socialall.dev",
   // name
   "full_name": "Boy Nguyen", // full name || first name + lastname
   "first_name": "Boy",

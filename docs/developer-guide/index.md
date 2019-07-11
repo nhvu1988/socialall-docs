@@ -2,7 +2,7 @@
 
 Welcome to the SocialAll API! You can use our API to access SocialAll API endpoints, which can get connect your users to their social network accounts
 
-Go to <a target='_blank' href='https://www.socialall.io'>SocialAll</a> and register an application for your website to get the ___app id___ and ___secret key___
+Go to <a target='_blank' href='https://www.socialall.dev'>SocialAll</a> and register an application for your website to get the ___app id___ and ___secret key___
 
 __Settings__
 

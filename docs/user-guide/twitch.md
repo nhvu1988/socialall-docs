@@ -6,7 +6,7 @@ __To register an application on Twitch, please follow all steps below:__
     ![Twitch : Register your application](/img/twitch-1-click-link.png)
     <div class="soclall-br"></div> 
 3. Then, please fill the information like below:
-    * Redirect URI: __https://api2.socialall.io/callback__
+    * Redirect URI: __https://api2.socialall.dev/callback__
     
     ![Twitch : Register form](/img/twitch-2-register-form.png)
     <div class="soclall-br"></div>

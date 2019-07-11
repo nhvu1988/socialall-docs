@@ -19,7 +19,7 @@ __To register an application on Ebay, please follow all steps below:__
 5. In the "Customize the eBay User Consent Form" section, you click the "Customize the eBay User Consent Form" link.
 6. In the "Application Level Settings" section, you fill the information below:
     * Show Application Details: choose __enabled__
-    * Application URL: __https://api2.socialall.io/__
+    * Application URL: __https://api2.socialall.dev/__
     
     ![Ebay : Application Level Settings](/img/ebay-4-application-level-settings.png)
     <div class="soclall-br"></div>
@@ -27,8 +27,8 @@ __To register an application on Ebay, please follow all steps below:__
 7. If done, press "Save Settings" button. Then, in the "Manage Your RuNames" section, you press "Generate Runame" button. After a minute or so, you can see a success message and a new "RuName" in the "Manage Your RuNames" section.
 8. Then, you continue click "Show Details" link for the new RuName and fill the information below: 
     * Authorization Type: choose __Authorization__
-    * Accept Redirect URL: __https://api2.socialall.io/callback__
-    * Reject Redirect URL: __https://api2.socialall.io/callback__
+    * Accept Redirect URL: __https://api2.socialall.dev/callback__
+    * Reject Redirect URL: __https://api2.socialall.dev/callback__
     
     ![Ebay : Application Settings](/img/ebay-5-manage-runame.png)
     <div class="soclall-br"></div>

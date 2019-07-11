@@ -11,8 +11,8 @@ __To register an application on Pinterest, please follow all steps below:__
     <div class="soclall-br"></div>
 4. Press "Create" button and you created app success!
 5. You find "Platforms" section, in the "Web", you fill the information below:
-    * Site URL: __https://api2.socialall.io/__
-    * Redirect URIs: __https://api2.socialall.io/callback__ . And press "Enter" in keyboard.
+    * Site URL: __https://api2.socialall.dev/__
+    * Redirect URIs: __https://api2.socialall.dev/callback__ . And press "Enter" in keyboard.
     
     ![Pinterest : Platforms form](/img/pin-3-platforms.png)
     <div class="soclall-br"></div>

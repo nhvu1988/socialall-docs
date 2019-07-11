@@ -11,7 +11,7 @@ __To register an application on Amazon, please follow all steps below:__
     <div class="soclall-br"></div>
 3. If done, press "Save" button.
 4. In "Settings" tab, choose "Web Settings" section and fill the information below:
-    * Allowed Return URLs: __https://api2.socialall.io/callback__
+    * Allowed Return URLs: __https://api2.socialall.dev/callback__
     
     ![Amazon : Settings App](/img/amazon-2-settings-form.png)
     <div class="soclall-br"></div>

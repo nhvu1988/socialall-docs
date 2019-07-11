@@ -14,10 +14,10 @@ __To register an application on Google PLus, please follow the steps below:__
     ![Google : Consent Screen](/img/google-3-consent-screen.jpg)
     <div class="soclall-br"></div>
 4. After that, select tab "Credentials", press button "Add credentials" and select "OAuth 2.0 client ID". Then choose "Web application" option and fill the form with the below information:
-    * Authorized Javascript Origins: __https://api2.socialall.io/__
+    * Authorized Javascript Origins: __https://api2.socialall.dev/__
     * Authorized Redirect Uris: 
-        - __http://api2.socialall.io/callback__
-        - __https://api2.socialall.io/callback__
+        - __http://api2.socialall.dev/callback__
+        - __https://api2.socialall.dev/callback__
 5. Then press button "Create".
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)

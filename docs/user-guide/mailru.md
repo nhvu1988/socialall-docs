@@ -15,7 +15,7 @@ __To register an application on Mail.Ru, please follow the steps below:__
     <div class="soclall-br"></div>
 3. Fill the create form with the below information
     * Название: (name of application)
-    * Адрес главной страницы: __https://api2.socialall.io/__ <br />
+    * Адрес главной страницы: __https://api2.socialall.dev/__ <br />
    Then press the button in red rectangle.
     <div class="soclall-br"></div>
     ![Mail.Ru : Create Form](/img/mailru-3-create-form.png)
