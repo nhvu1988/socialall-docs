@@ -1,39 +1,44 @@
 site_name: SocialAll
-repo_url: http://www.socialall.dev/
-repo_name: SocialAll
+site_url: https://socialall.dev/
+repo_url: https://github.com/social-all
+repo_name: Github
 site_author: SandKlock
 site_favicon: favicon32.png
-pages:
-- ['index.md', 'SocialAll']
-- ['user-guide/facebook.md', 'User Guide', 'Facebook']
-- ['user-guide/twitter.md', 'User Guide', 'Twitter']
-- ['user-guide/linkedin.md', 'User Guide', 'Linkedin']
-- ['user-guide/google.md', 'User Guide', 'Google Plus']
-- ['user-guide/plurk.md', 'User Guide', 'Plurk']
-- ['user-guide/tumblr.md', 'User Guide', 'Tumblr']
-- ['user-guide/mailru.md', 'User Guide', 'Mail.Ru']
-- ['user-guide/live.md', 'User Guide', 'Live']
-- ['user-guide/reddit.md', 'User Guide', 'Reddit']
-- ['user-guide/lastfm.md', 'User Guide', 'Last.fm']
-- ['user-guide/vkontakte.md', 'User Guide', 'Vkontakte']
-- ['user-guide/disqus.md', 'User Guide', 'Disqus']
-- ['user-guide/wordpress.md', 'User Guide', 'Wordpress']
-- ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
-- ['user-guide/github.md', 'User Guide', 'GitHub']
-- ['user-guide/instagram.md', 'User Guide', 'Instagram']
-- ['user-guide/pinterest.md', 'User Guide', 'Pinterest']
-- ['user-guide/amazon.md', 'User Guide', 'Amazon']
-- ['user-guide/ebay.md', 'User Guide', 'Ebay']
-- ['user-guide/yahoo.md', 'User Guide', 'Yahoo']
-- ['user-guide/twitch.md', 'User Guide', 'Twitch']
-- ['user-guide/steam.md', 'User Guide', 'Steam']
-- ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
-- ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
-- ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']
-- ['developer-guide/php.md', 'Developer Guide', 'PHP']
-- ['developer-guide/user-object.md', 'Developer Guide', 'User Object']
-- ['developer-guide/page-object.md', 'Developer Guide', 'Page Object']
+google_analytics: ['UA-143770830-1', 'socialall.dev']
+nav:
+- Home: 'index.md'
+- User Guide:
+  - 'Facebook': 'user-guide/facebook.md'
+  - 'Twitter': 'user-guide/twitter.md'
+  - 'Linkedin': 'user-guide/linkedin.md'
+  - 'Google Plus': 'user-guide/google.md'
+  - 'Plurk': 'user-guide/plurk.md'
+  - 'Tumblr': 'user-guide/tumblr.md'
+  - 'Mail.Ru': 'user-guide/mailru.md'
+  - 'Live': 'user-guide/live.md'
+  - 'Reddit': 'user-guide/reddit.md'
+  - 'Last.fm': 'user-guide/lastfm.md'
+  - 'Vkontakte': 'user-guide/vkontakte.md'
+  - 'Disqus': 'user-guide/disqus.md'
+  - 'Wordpress': 'user-guide/wordpress.md'
+  - 'Foursquare': 'user-guide/foursquare.md'
+  - 'GitHub': 'user-guide/github.md'
+  - 'Instagram': 'user-guide/instagram.md'
+  - 'Pinterest': 'user-guide/pinterest.md'
+  - 'Amazon': 'user-guide/amazon.md'
+  - 'Ebay': 'user-guide/ebay.md'
+  - 'Yahoo': 'user-guide/yahoo.md'
+  - 'Twitch': 'user-guide/twitch.md'
+  - 'Steam': 'user-guide/steam.md'
+- Developer Guide:
+  - 'Getting Started': 'developer-guide/index.md'
+  - 'RESTful': 'developer-guide/restful.md'
+  - 'Node.js': 'developer-guide/nodejs.md'
+  - 'PHP': 'developer-guide/php.md'
+  - 'User Object': 'developer-guide/user-object.md'
+  - 'Page Object': 'developer-guide/page-object.md'
 theme: readthedocs
-extra_css: ['css/soclall.css']
-extra_javascript: ['js/soclall.js']
-include_search: true
+extra_css: 
+  - css/soclall.css
+extra_javascript: 
+  - js/soclall.js
